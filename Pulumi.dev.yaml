@@ -1,0 +1,7 @@
+encryptionsalt: v1:IR+1CoTrKTM=:v1:CBTn8dtCfxkjH9Yv:2wROvyBFeYqotdwlQGmXgWNlbMFPbQ==
+config:
+  azure-native:location: West Europe
+  create_aks_ts:developer: Anderson
+  create_aks_ts:environment: lab
+  create_aks_ts:location: West Europe
+  create_aks_ts:pillar: m-cloud

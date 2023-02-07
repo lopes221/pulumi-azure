@@ -1,0 +1,3 @@
+name: create_aks_ts
+runtime: nodejs
+description: Create an AKS instance with TS
